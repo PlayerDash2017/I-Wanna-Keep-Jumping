@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndVanish",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.201542,
+  "name":"sndVanish",
+  "parent":{
+    "name":"Misc",
+    "path":"folders/Sounds/SFX/Misc.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndVanish.wav",
+  "type":0,
+  "volume":1.0,
+}

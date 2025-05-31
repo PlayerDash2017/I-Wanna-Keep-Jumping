@@ -1,0 +1,1 @@
+with(other) jump_left = 0;

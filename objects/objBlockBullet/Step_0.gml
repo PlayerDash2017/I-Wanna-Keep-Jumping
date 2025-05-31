@@ -1,0 +1,1 @@
+image_alpha = max(image_alpha - 0.05,0);

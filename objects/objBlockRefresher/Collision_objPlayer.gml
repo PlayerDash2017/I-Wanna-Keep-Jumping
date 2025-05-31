@@ -1,0 +1,1 @@
+with(other) jump_left = other.num_jumps-1;
